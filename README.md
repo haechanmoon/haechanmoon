@@ -39,6 +39,6 @@ Java와 Spring Boot를 기반으로 안정적이고 확장 가능한 서버를 �
 ---
 
 ## 📬 Contact
-- Email: chan123456748@gmail.com
+- Email: moonhc.dev@gmail.com
 - GitHub: [haechanmoon](https://github.com/haechanmoon)
 - Notion Portfolio: (추가 예정)
