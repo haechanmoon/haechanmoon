@@ -15,7 +15,7 @@ Java와 Spring Boot를 기반으로 안정적이고 확장 가능한 서버를 �
 - Spring Boot 3 REST API 설계
 - JPA/Hibernate DB 연동
 - AWS EC2, RDS 배포 실습
-- 알고리즘 문제 해결 (프로그래머스/백준)
+- 알고리즘 문제 해결 (백준)
 
 ---
 
@@ -27,8 +27,9 @@ Java와 Spring Boot를 기반으로 안정적이고 확장 가능한 서버를 �
 ---
 
 ## 🏆 Certificates
-- SQLD
-- 정보처리기사
+- 정보처리기사 (2025.09)ㅅ
+- SQLD (2025.04)
+
 
 ---
 
