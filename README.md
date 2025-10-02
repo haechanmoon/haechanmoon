@@ -20,8 +20,8 @@ Java와 Spring Boot를 기반으로 안정적이고 확장 가능한 서버를 �
 ---
 
 ## 📂 Projects
-- [졸업작품: 사회초년생 모의 금 투자 시스템](링크 예정)
-- [산학 프로젝트: 음성/영상 인식 기반 시스템](링크 예정)
+- [졸업작품: 사회초년생 모의 금 투자 시스템][(링크 예정)](https://github.com/Gold-Investment-Sim)
+- [산학 프로젝트: 음성/영상 인식 기반 시스템][(링크 예정)](https://github.com/Digital-Signage-Voice)
 - [토이 프로젝트: Spring Boot 로그인/게시판](링크 예정)
 
 ---
