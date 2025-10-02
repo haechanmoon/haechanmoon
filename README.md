@@ -6,8 +6,8 @@ Java와 Spring Boot를 기반으로 안정적이고 확장 가능한 서버를 �
 ---
 
 ## 🔧 Tech Stack
-- Java | Spring Boot | MySQL | JPA | AWS(EC2, RDS) | Git
-- Tools: GitHub, Notion
+- Java | Spring Boot | MySQL | Git(Studing) | JPA(Studing) | AWS(EC2, RDS)/(Studing) 
+- Tools: IntelliJ, GitHub, Notion
 
 ---
 
