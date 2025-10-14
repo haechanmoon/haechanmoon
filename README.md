@@ -1,13 +1,12 @@
-# 👋 성장하는 백엔드 개발자, 문해찬입니다.
+# 👋 문해찬입니다.
 
-Java와 Spring Boot를 기반으로 안정적이고 확장 가능한 서버를 만드는 것을 목표로 합니다.  
-현재는 JPA, 보안(JWT, OAuth2), AWS 배포에 집중하며 실제 프로젝트 경험을 통해 성장하고 있습니다.
+Java와 Spring을 공부중입니다.
 
 ---
 
 ## 🔧 Tech Stack
 - Java | Spring Boot | MySQL | Git(Studing) | JPA(Studing) | AWS(EC2, RDS)/(Studing) 
-- Tools: IntelliJ, GitHub, Notion
+- Tools: IntelliJ, GitHub, Notion, Discord
 
 ---
 
