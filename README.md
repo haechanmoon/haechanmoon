@@ -1,27 +1,14 @@
 # 👋 문해찬입니다.
 
-Java와 Spring을 공부중입니다.
+Java 공부 중입니다
 
 ---
-
-## 🔧 Tech Stack
-- Java | Spring Boot | MySQL | Git(Studing) | JPA(Studing) | AWS(EC2, RDS)/(Studing) 
-- Tools: IntelliJ, GitHub, Notion, Discord
 
 ---
 
 ## 📚 Currently Learning
-- Spring Boot 3 REST API 설계
-- JPA/Hibernate DB 연동
-- AWS EC2, RDS 배포 실습
+- Java 기본기 훈련
 - 알고리즘 문제 해결 (백준)
-
----
-
-## 📂 Projects
-- [졸업작품: 사회초년생 모의 금 투자 시스템][(링크)](https://github.com/Gold-Investment-Sim)
-- [산학 프로젝트: 음성/영상 인식 기반 시스템][(링크)](https://github.com/Digital-Signage-Voice)
-- [토이 프로젝트: Spring Boot 로그인/게시판](링크 예정)
 
 ---
 
