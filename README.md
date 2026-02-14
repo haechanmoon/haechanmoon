@@ -5,7 +5,7 @@
 <br/>
 
 ## 🚀 Career & Activity
-- **Woowa Tech Course 8th** : Backend (2026.02 ~ )
+- **우아한테크코스 8기** : 백엔드 (2026.02 ~ )
   - 자바(Java)
   - 객체지향의 본질 탐구
   - 함께 자라기
