@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pino 🎹</h1>
+<h1 align="center">Hi, I'm Haechan Moon (Pino) 🎹</h1>
 
 <p align="center">
   <a href="https://velog.io/@ansgocks1216/posts"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square" alt="Blog" /></a>
